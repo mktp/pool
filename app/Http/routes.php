@@ -22,3 +22,5 @@ Route::controllers([
 
 Route::get('wendy', 'WelcomeController@wendy');
 Route::get('fixture', 'WelcomeController@fixture');
+Route::get('new_pool', 'WelcomeController@new_pool');
+Route::post	('save_pool', ['as' => 'save_pool', 'uses' => 'WelcomeController@save_pool']);

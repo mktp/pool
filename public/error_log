@@ -2,3 +2,4 @@
 [17-May-2015 20:50:51 UTC] PHP Fatal error:  Class 'Form' not found in /home/marketingpublico/public_html/pool/storage/framework/views/dffa6092c09eb44c7a145ed229809022 on line 47
 [17-May-2015 20:50:55 UTC] PHP Fatal error:  Class 'Form' not found in /home/marketingpublico/public_html/pool/storage/framework/views/dffa6092c09eb44c7a145ed229809022 on line 47
 [18-May-2015 00:00:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/marketingpublico/public_html/pool/app/Http/Controllers/WelcomeController.php on line 46
+[18-May-2015 20:06:30 UTC] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/marketingpublico/public_html/pool/app/Http/Controllers/WelcomeController.php on line 70
